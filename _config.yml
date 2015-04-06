@@ -8,15 +8,15 @@ description: "Data driven compassion"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: fed136
-  secondary: fec503
+  primary: 66cc99
+  secondary: 66dd99
   secondary-dark: 333
 
 # Team names, titles and social links
 people:
 - name: Maclen Zilber
   pic: 1
-  position: Head Hunter
+  position: The Policy Wonk
   # social:
   #   - title: twitter
   #     url: #
@@ -25,26 +25,27 @@ people:
   #   - title: stack-overflow
   #     url: #
 
-- name: Peter DePaulo
-  pic: 2
-  position: Killionaire Illuminati
-  # social:
-  #   - title: twitter
-  #     url: #
-  #   - title: facebook
-  #     url: #
-  #   - title: linkedin
-  #     url: #
 
 - name: Bryce Farrington
-  pic: 3
-  position: Lawyer in Training
+  pic: 2
+  position: The Economist
   # social:
   #   - title: twitter
   #     url: #
   #   - title: facebook
   #     url: #
   #   - title: google-plus
+  #     url: #
+
+- name: Peter DePaulo
+  pic: 3
+  position: The Tech Bro
+  # social:
+  #   - title: twitter
+  #     url: #
+  #   - title: facebook
+  #     url: #
+  #   - title: linkedin
   #     url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -55,7 +56,7 @@ people:
 #     url:
 #   - title: stack-overflow
 #     url: http://stackoverflow.com/questions/tagged/jekyll
-#   - title: bitbucket 
+#   - title: bitbucket
 #     url: http://bitbucket.org/jekyll
 #   - title: github
 #     url: http://github.com/jekyll
